@@ -38,6 +38,6 @@ Public experiments, templates, automation tools, and internal systems from Skren
 
 ## Links
 
-- Skrenlabs → https://skrenlabs.com
+- Website → https://skrenlabs.com
 - GigProfit → https://gigprofit.app
 - Calcurio → https://calcurio.net
