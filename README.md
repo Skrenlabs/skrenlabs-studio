@@ -8,6 +8,7 @@ Building AI-powered internet products, automation systems, and modern web tools.
 AI-powered platform for freelancers, creators, and online income growth.
 
 → https://gigprofit.app
+
 → https://play.google.com/store/apps/details?id=app.gigprofit&hl=en
 
 ### 🧮 Calcurio
